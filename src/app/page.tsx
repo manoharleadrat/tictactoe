@@ -116,7 +116,7 @@ export default function Home() {
             Tic Tac Toe
           </h1>
           <p className="text-gray-600 text-sm md:text-base">
-            Built with Next.js & TypeScript
+            Built 
           </p>
         </div>
 
