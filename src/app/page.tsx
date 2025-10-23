@@ -108,7 +108,7 @@ export default function Home() {
   };
 
   return (
-    <main className="min-h-screen bg-linear-to-br from-purple-400 via-pink-500 to-red-500 flex items-center justify-center p-4">
+    <main className="min-h-screen bg-linear-to-br from-purple-400 via-pink-500 to-green-500 flex items-center justify-center p-4">
       <div className="bg-white/90 backdrop-blur-sm rounded-2xl shadow-2xl p-6 md:p-8 max-w-md w-full">
         {/* Header */}
         <div className="text-center mb-8">
@@ -116,7 +116,7 @@ export default function Home() {
             Tic Tac Toe
           </h1>
           <p className="text-gray-600 text-sm md:text-base">
-            Built with Next.js & TypeScript
+            Built 
           </p>
         </div>
 
