@@ -116,8 +116,9 @@ export default function Home() {
             Tic Tac Toe
           </h1>
           <p className="text-gray-600 text-sm md:text-base">
-            Built 
-          </p>
+            Built By Cursor AI with Next.js & TypeScript and Tailwind CSS
+           </p>
+
         </div>
 
         {/* Game Settings */}
