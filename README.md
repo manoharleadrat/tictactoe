@@ -30,7 +30,7 @@ A beautiful and interactive Tic Tac Toe game built with Next.js, TypeScript, and
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd tic-tac-toe
+cd tictactoe
 ```
 
 2. Install dependencies:
