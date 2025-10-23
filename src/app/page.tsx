@@ -118,6 +118,7 @@ export default function Home() {
           <p className="text-gray-600 text-sm md:text-base">
             Built By Cursor AI with Next.js & TypeScript and Tailwind CSS
            </p>
+
         </div>
 
         {/* Game Settings */}
